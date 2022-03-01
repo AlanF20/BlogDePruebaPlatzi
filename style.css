@@ -21,3 +21,13 @@ nav ul{
 	list-style: none;
 	gap: 20px;
 }
+#cuerpo{
+	width: 100%;
+	height: 90vh;
+}
+
+footer p{
+	width: 100%;
+	height: 5vh;
+	background-color: antiquewhite;
+}
